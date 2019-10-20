@@ -1,0 +1,7 @@
+D:\Belgeler\source\UserControls\UserControls\bin\Debug\UserControls.dll
+D:\Belgeler\source\UserControls\UserControls\bin\Debug\UserControls.pdb
+D:\Belgeler\source\UserControls\UserControls\obj\Debug\UserControls.csprojAssemblyReference.cache
+D:\Belgeler\source\UserControls\UserControls\obj\Debug\UserControls.NumericEntry.resources
+D:\Belgeler\source\UserControls\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+D:\Belgeler\source\UserControls\UserControls\obj\Debug\UserControls.dll
+D:\Belgeler\source\UserControls\UserControls\obj\Debug\UserControls.pdb

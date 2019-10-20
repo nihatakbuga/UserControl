@@ -1,0 +1,12 @@
+D:\Belgeler\source\UserControls\Test\bin\Debug\Test.exe.config
+D:\Belgeler\source\UserControls\Test\bin\Debug\Test.exe
+D:\Belgeler\source\UserControls\Test\bin\Debug\Test.pdb
+D:\Belgeler\source\UserControls\Test\bin\Debug\UserControls.dll
+D:\Belgeler\source\UserControls\Test\bin\Debug\UserControls.pdb
+D:\Belgeler\source\UserControls\Test\obj\Debug\NumericEntryTest.csprojAssemblyReference.cache
+D:\Belgeler\source\UserControls\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Belgeler\source\UserControls\Test\obj\Debug\NumericEntryTest.csproj.GenerateResource.cache
+D:\Belgeler\source\UserControls\Test\obj\Debug\NumericEntryTest.csproj.CopyComplete
+D:\Belgeler\source\UserControls\Test\obj\Debug\Test.exe
+D:\Belgeler\source\UserControls\Test\obj\Debug\Test.pdb
+D:\Belgeler\source\UserControls\Test\obj\Debug\Test.NumericEntry.resources
